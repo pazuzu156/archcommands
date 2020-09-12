@@ -22,6 +22,10 @@ If you wish to install the apps elsewhere besides cmake's default prefix, define
 
 ```cmake -DCMAKE_INSTALL_PREFIX=/newprefix ..```
 
+### Arch
+
+Just follow the instructions on the [arch branch](https://github.com/pazuzu156/archcommands/tree/arch)
+
 ## Requirements
 
 * libcurl
